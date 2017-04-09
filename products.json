@@ -56,7 +56,7 @@
         { "label": "PostCSS", "text": "Yes" },
 
         { "label": "Min Browser", "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari" }
-        
+
       ],
 
       "tags": [ "modern", "bootstrap", "bootstrap 4", "app", "tablet", "phone", "desktop", "responsive", "multipurpose", "template", "theme", "fui", "hud", "gui", "ixd", "ux", "ui", "ajax", "web 2.0", "html5", "css3", "jquery", "bootlint", "business", "creative", "marketing", "agency", "portfolio", "blog", "corporate", "company", "resume" ]
@@ -86,9 +86,9 @@
       "screenshot": "http://fantasyui.com/demo/hal/content/product-intro/images/product-intro.jpg",
 
       "licensing": [
-        { "type": "Single", "amount": 15000 },
-        { "type": "Multiuse", "amount": 150000 },
-        { "type": "Extended", "amount": 1500000 }
+        { "type": "Single", "amount": 1500 },
+        { "type": "Multiuse", "amount": 15000 },
+        { "type": "Extended", "amount": 150000 }
       ],
 
       "properties": [
@@ -138,9 +138,9 @@
       "screenshot": "http://fantasyui.com/demo/wintermute/content/product-intro/images/product-intro.jpg",
 
       "licensing": [
-        { "type": "Single", "amount": 15000 },
-        { "type": "Multiuse", "amount": 150000 },
-        { "type": "Extended", "amount": 1500000 }
+        { "type": "Single", "amount": 1500 },
+        { "type": "Multiuse", "amount": 15000 },
+        { "type": "Extended", "amount": 150000 }
       ],
 
       "properties": [
@@ -192,9 +192,9 @@
       "screenshot": "http://fantasyui.com/demo/shodan/content/product-intro/images/product-intro.jpg",
 
       "licensing": [
-        { "type": "Single", "amount": 15000 },
-        { "type": "Multiuse", "amount": 150000 },
-        { "type": "Extended", "amount": 1500000 }
+        { "type": "Single", "amount": 1500 },
+        { "type": "Multiuse", "amount": 15000 },
+        { "type": "Extended", "amount": 150000 }
       ],
 
       "properties": [
