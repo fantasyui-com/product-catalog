@@ -6,7 +6,7 @@
   "data":[
 
     {
-      "deleted": true,
+      "deleted": false,
 
       "name": "Mega Bundle",
       "description": "Beautiful massive product megabundle.",
@@ -23,7 +23,7 @@
     },
 
     {
-      "deleted": true,
+      "deleted": false,
 
       "name": "HAL",
       "description": "Beautiful lightweight theme with hundreds of components",
