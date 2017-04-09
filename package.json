@@ -1,6 +1,6 @@
 {
   "name": "product-catalog",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Efficient lodash backed, package.json formatted digital downloads product-catalog with minimal requirements and maintenance.",
   "main": "index.js",
   "scripts": {
