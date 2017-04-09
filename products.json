@@ -36,7 +36,7 @@
       "licensing": [
         { "type": "Single", "amount": 15000 },
         { "type": "Multiuse", "amount": 150000 },
-        { "type": "Extended", "amount": 1500000 }
+        { "type": "Extended", "amount": 300000 }
       ],
 
       "properties": [
