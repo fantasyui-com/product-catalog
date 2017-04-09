@@ -35,11 +35,33 @@ own product databases, the product-catalog model is priceless.
   "author": "Fantasy User Interface - Motion Picture Quality Bootstrap 4 Fantasy UI Kits",
   "authorId":"fantasyui-com", // id or username of the seller
 
-  "homepage": "http://fantasyui.com/demo/shodan/content/product-intro/"
+  "homepage": "http://fantasyui.com/demo/shodan/content/product-intro/",
 
-}
+  // url to public product demo
+  "demo": "http://fantasyui.com/demo/hal/content/product-intro/",
+
+  // direct link to image, keep this on a CDN
+  "screenshot": "http://fantasyui.com/demo/hal/content/product-intro/images/product-intro.jpg"
+
 
 ```
+
+Note: screenshot property can be an array of links.
+
+```JavaScript
+
+  "screenshot": [
+    "http://fantasyui.com/demo/mega-bundle/screenshot.jpg",
+    "http://fantasyui.com/demo/mega-bundle/aardwolf/content/product-intro/images/product-intro.jpg",
+    "http://fantasyui.com/demo/mega-bundle/nanook/content/product-intro/images/product-intro.jpg",
+    "http://fantasyui.com/demo/mega-bundle/minerva/content/product-intro/images/product-intro.jpg"
+  ]
+
+}
+```
+
+
+
 
 ### API
 

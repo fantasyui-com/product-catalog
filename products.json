@@ -22,7 +22,17 @@
       "author": "Fantasy User Interface - Motion Picture Quality Bootstrap 4 Fantasy UI Kits",
       "authorId": "fantasyui-com",
 
-      "homepage": "http://fantasyui.com/mega-bundle.html"
+      "homepage": "http://fantasyui.com/mega-bundle.html",
+
+      "demo": "http://fantasyui.com/mega-bundle.html",
+
+      "screenshot": [
+        "http://fantasyui.com/demo/mega-bundle/screenshot.jpg",
+        "http://fantasyui.com/demo/mega-bundle/aardwolf/content/product-intro/images/product-intro.jpg",
+        "http://fantasyui.com/demo/mega-bundle/nanook/content/product-intro/images/product-intro.jpg",
+        "http://fantasyui.com/demo/mega-bundle/minerva/content/product-intro/images/product-intro.jpg"
+      ]
+
     },
 
     {
@@ -42,7 +52,11 @@
       "author": "Fantasy User Interface - Motion Picture Quality Bootstrap 4 Fantasy UI Kits",
       "authorId": "fantasyui-com",
 
-      "homepage": "http://fantasyui.com/demo/hal/content/product-intro/"
+      "homepage": "http://fantasyui.com/demo/hal/content/product-intro/",
+
+      "demo": "http://fantasyui.com/demo/hal/content/product-intro/",
+      "screenshot": "http://fantasyui.com/demo/hal/content/product-intro/images/product-intro.jpg"
+
     },
 
     {
@@ -62,7 +76,11 @@
       "author": "Fantasy User Interface - Motion Picture Quality Bootstrap 4 Fantasy UI Kits",
       "authorId": "fantasyui-com",
 
-      "homepage": "http://fantasyui.com/demo/wintermute/content/product-intro/"
+      "homepage": "http://fantasyui.com/demo/wintermute/content/product-intro/",
+
+      "demo": "http://fantasyui.com/demo/wintermute/content/product-intro/",
+      "screenshot": "http://fantasyui.com/demo/wintermute/content/product-intro/images/product-intro.jpg"
+
     },
 
     {
@@ -83,9 +101,12 @@
       "author": "Fantasy User Interface - Motion Picture Quality Bootstrap 4 Fantasy UI Kits",
       "authorId": "fantasyui-com",
 
-      "homepage": "http://fantasyui.com/demo/shodan/content/product-intro/"
-    }
+      "homepage": "http://fantasyui.com/demo/shodan/content/product-intro/",
 
+      "demo": "http://fantasyui.com/demo/shodan/content/product-intro/",
+      "screenshot": "http://fantasyui.com/demo/shodan/content/product-intro/images/product-intro.jpg"
+
+    }
 
   ]
 
