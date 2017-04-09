@@ -8,7 +8,8 @@
     {
       "deleted": false,
 
-      "name": "Mega Bundle",
+      "title": "Mega Bundle",
+      "name": "mega-bundle",
       "description": "Beautiful massive product megabundle.",
       "version": "1.0.0",
 
@@ -19,13 +20,16 @@
       "popular": true,
 
       "author": "Fantasy User Interface - Motion Picture Quality Bootstrap 4 Fantasy UI Kits",
+      "authorId": "fantasyui-com",
+
       "homepage": "http://fantasyui.com/mega-bundle.html"
     },
 
     {
       "deleted": false,
 
-      "name": "HAL",
+      "title": "HAL",
+      "name": "hal",
       "description": "Beautiful lightweight theme with hundreds of components",
       "version": "1.0.0",
 
@@ -36,13 +40,16 @@
       "featured": true,
 
       "author": "Fantasy User Interface - Motion Picture Quality Bootstrap 4 Fantasy UI Kits",
+      "authorId": "fantasyui-com",
+
       "homepage": "http://fantasyui.com/demo/hal/content/product-intro/"
     },
 
     {
       "deleted": false,
 
-      "name": "Wintermute",
+      "title": "Wintermute",
+      "name": "wintermute",
       "description": "Beautiful lightweight theme with hundreds of components",
       "version": "1.0.0",
 
@@ -53,13 +60,17 @@
       "featured": false,
 
       "author": "Fantasy User Interface - Motion Picture Quality Bootstrap 4 Fantasy UI Kits",
+      "authorId": "fantasyui-com",
+
       "homepage": "http://fantasyui.com/demo/wintermute/content/product-intro/"
     },
 
     {
       "deleted": false,
 
-      "name": "Shodan",
+      "title": "Shodan",
+      "name": "shodan",
+
       "description": "Beautiful lightweight theme with hundreds of components",
       "version": "1.0.0",
 
@@ -70,6 +81,8 @@
       "featured": false,
 
       "author": "Fantasy User Interface - Motion Picture Quality Bootstrap 4 Fantasy UI Kits",
+      "authorId": "fantasyui-com",
+
       "homepage": "http://fantasyui.com/demo/shodan/content/product-intro/"
     }
 

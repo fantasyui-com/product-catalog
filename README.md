@@ -11,6 +11,35 @@ own product databases, the product-catalog model is priceless.
 Clone or fork, edit, make it your own, and prosper.
 Dr. M.
 
+## Structure
+
+```JavaScript
+
+{
+  "deleted": false, // you must explicitly state that the record is not deleted
+
+  "title": "Shodan", // full product name in proper case
+  "name": "shodan", // npm friendly name, no spaces, all lowercase
+
+  "description": "Beautiful lightweight theme with hundreds of components",
+  "version": "1.0.0",
+
+  "amount": 1000, // price in cents
+  "currency": "usd", // valid currency code
+
+  // listing properties as bool for ease of filtering
+  "popular": true,
+  "featured": false,
+
+  "author": "Fantasy User Interface - Motion Picture Quality Bootstrap 4 Fantasy UI Kits",
+  "authorId":"fantasyui-com", // id or username of the seller
+
+  "homepage": "http://fantasyui.com/demo/shodan/content/product-intro/"
+
+}
+
+```
+
 ### API
 
 - [find](https://lodash.com/docs#find)
