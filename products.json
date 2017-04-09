@@ -6,41 +6,70 @@
   "data":[
 
     {
-      "name": "HAL",
-      "description": "Beautiful lightweight theme with hundreds of components",
+      "deleted": true,
+
+      "name": "Mega Bundle",
+      "description": "Beautiful massive product megabundle.",
       "version": "1.0.0",
 
       "amount": 50000,
       "currency": "usd",
+
+      "featured": true,
+      "popular": true,
+
+      "author": "Fantasy User Interface - Motion Picture Quality Bootstrap 4 Fantasy UI Kits",
+      "homepage": "http://fantasyui.com/mega-bundle.html"
+    },
+
+    {
       "deleted": true,
 
-      "author": "Alice Smith",
+      "name": "HAL",
+      "description": "Beautiful lightweight theme with hundreds of components",
+      "version": "1.0.0",
+
+      "amount": 10000,
+      "currency": "usd",
+
+      "popular": true,
+      "featured": true,
+
+      "author": "Fantasy User Interface - Motion Picture Quality Bootstrap 4 Fantasy UI Kits",
       "homepage": "http://fantasyui.com/demo/hal/content/product-intro/"
     },
 
     {
+      "deleted": false,
+
       "name": "Wintermute",
       "description": "Beautiful lightweight theme with hundreds of components",
       "version": "1.0.0",
 
-      "amount": 5000,
+      "amount": 10000,
       "currency": "usd",
-      "deleted": false,
 
-      "author": "Alice Smith",
+      "popular": true,
+      "featured": false,
+
+      "author": "Fantasy User Interface - Motion Picture Quality Bootstrap 4 Fantasy UI Kits",
       "homepage": "http://fantasyui.com/demo/wintermute/content/product-intro/"
     },
 
     {
+      "deleted": false,
+
       "name": "Shodan",
       "description": "Beautiful lightweight theme with hundreds of components",
       "version": "1.0.0",
 
-      "amount": 20000,
+      "amount": 10000,
       "currency": "usd",
-      "deleted": false,
 
-      "author": "Alice Smith",
+      "popular": true,
+      "featured": false,
+
+      "author": "Fantasy User Interface - Motion Picture Quality Bootstrap 4 Fantasy UI Kits",
       "homepage": "http://fantasyui.com/demo/shodan/content/product-intro/"
     }
 
