@@ -26,13 +26,14 @@
 
       "demo": "http://fantasyui.com/mega-bundle.html",
 
-      "screenshot": [
-        "http://fantasyui.com/demo/mega-bundle/screenshot.jpg",
+      "screenshot": "http://fantasyui.com/demo/mega-bundle/screenshot.jpg",
+
+      "screenshots": [
         "http://fantasyui.com/demo/mega-bundle/aardwolf/content/product-intro/images/product-intro.jpg",
         "http://fantasyui.com/demo/mega-bundle/nanook/content/product-intro/images/product-intro.jpg",
         "http://fantasyui.com/demo/mega-bundle/minerva/content/product-intro/images/product-intro.jpg"
       ]
-
+      
     },
 
     {

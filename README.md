@@ -43,14 +43,8 @@ own product databases, the product-catalog model is priceless.
   // direct link to image, keep this on a CDN
   "screenshot": "http://fantasyui.com/demo/hal/content/product-intro/images/product-intro.jpg"
 
-
-```
-
-Note: screenshot property can be an array of links.
-
-```JavaScript
-
-  "screenshot": [
+  // additional screenshots, must be array
+  "screenshots": [
     "http://fantasyui.com/demo/mega-bundle/screenshot.jpg",
     "http://fantasyui.com/demo/mega-bundle/aardwolf/content/product-intro/images/product-intro.jpg",
     "http://fantasyui.com/demo/mega-bundle/nanook/content/product-intro/images/product-intro.jpg",
