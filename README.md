@@ -8,8 +8,9 @@ especially one stored in a public globally accessible network, can become your
 public API. In context of affiliate networks and helping new-comers seed their
 own product databases, the product-catalog model is priceless.
 
-Clone or fork, edit, make it your own, and prosper.
-Dr. M.
+1. clone or fork
+2. rename to something meanigful (ex. fantasyui-com-product-catalog)
+3. Edit/Add Products
 
 ## Structure
 
