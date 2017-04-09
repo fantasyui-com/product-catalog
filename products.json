@@ -12,7 +12,7 @@
       "description": "Beautiful massive product megabundle.",
       "version": "1.0.0",
 
-      "amount": 50000,
+      "amount": 15000,
       "currency": "usd",
 
       "featured": true,
@@ -29,7 +29,7 @@
       "description": "Beautiful lightweight theme with hundreds of components",
       "version": "1.0.0",
 
-      "amount": 10000,
+      "amount": 1000,
       "currency": "usd",
 
       "popular": true,
@@ -46,7 +46,7 @@
       "description": "Beautiful lightweight theme with hundreds of components",
       "version": "1.0.0",
 
-      "amount": 10000,
+      "amount": 1000,
       "currency": "usd",
 
       "popular": true,
@@ -63,7 +63,7 @@
       "description": "Beautiful lightweight theme with hundreds of components",
       "version": "1.0.0",
 
-      "amount": 10000,
+      "amount": 1000,
       "currency": "usd",
 
       "popular": true,
