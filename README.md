@@ -25,7 +25,6 @@ own product databases, the product-catalog model is priceless.
   "description": "Beautiful lightweight theme with hundreds of components",
   "version": "1.0.0",
 
-  "amount": 1000, // price in cents
   "currency": "usd", // valid currency code
 
   // listing properties as bool for ease of filtering
@@ -49,7 +48,39 @@ own product databases, the product-catalog model is priceless.
     "http://fantasyui.com/demo/mega-bundle/aardwolf/content/product-intro/images/product-intro.jpg",
     "http://fantasyui.com/demo/mega-bundle/nanook/content/product-intro/images/product-intro.jpg",
     "http://fantasyui.com/demo/mega-bundle/minerva/content/product-intro/images/product-intro.jpg"
-  ]
+  ],
+
+  // price in cents
+  "licensing": [
+    { "type": "Single", "amount": 15000 },
+    { "type": "Multiuse", "amount": 150000 },
+    { "type": "Extended", "amount": 1500000 }
+  ],
+
+  // the property bag holds product details
+  "properties": [
+
+    { "label": "Product Type", "text": "HTML Template" },
+    { "label": "Release Date", "text": "January, 2016" },
+    { "label": "Last Updated", "text": "March, 2017" },
+    { "label": "File Types", "text": "HTML, CSS" },
+    { "label": "File Size", "text": "Under 5MB" },
+
+    { "label": "Layout Columns", "text": "Variable" },
+    { "label": "Responsive Layout", "text": "Yes" },
+    { "label": "Fluid Layout", "text": "Yes" },
+    { "label": "Fixed-width Layout", "text": "Yes" },
+
+    { "label": "Less", "text": "No" },
+    { "label": "Sass", "text": "No" },
+    { "label": "PostCSS", "text": "Yes" },
+
+    { "label": "Min Browser", "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari" },
+  ],
+
+  // basic tag printing
+  "tags": [ "modern", "bootstrap", "bootstrap 4" ]
+
 
 }
 ```

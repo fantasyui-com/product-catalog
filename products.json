@@ -13,7 +13,6 @@
       "description": "Beautiful massive product megabundle.",
       "version": "1.0.0",
 
-      "amount": 15000,
       "currency": "usd",
 
       "featured": true,
@@ -32,8 +31,36 @@
         "http://fantasyui.com/demo/mega-bundle/aardwolf/content/product-intro/images/product-intro.jpg",
         "http://fantasyui.com/demo/mega-bundle/nanook/content/product-intro/images/product-intro.jpg",
         "http://fantasyui.com/demo/mega-bundle/minerva/content/product-intro/images/product-intro.jpg"
-      ]
-      
+      ],
+
+      "licensing": [
+        { "type": "Single", "amount": 15000 },
+        { "type": "Multiuse", "amount": 150000 },
+        { "type": "Extended", "amount": 1500000 }
+      ],
+
+      "properties": [
+        { "label": "Product Type", "text": "HTML Template" },
+        { "label": "Release Date", "text": "January, 2016" },
+        { "label": "Last Updated", "text": "March, 2017" },
+        { "label": "File Types", "text": "HTML, CSS" },
+        { "label": "File Size", "text": "Under 5MB" },
+
+        { "label": "Layout Columns", "text": "Variable" },
+        { "label": "Responsive Layout", "text": "Yes" },
+        { "label": "Fluid Layout", "text": "Yes" },
+        { "label": "Fixed-width Layout", "text": "Yes" },
+
+        { "label": "Less", "text": "No" },
+        { "label": "Sass", "text": "No" },
+        { "label": "PostCSS", "text": "Yes" },
+
+        { "label": "Min Browser", "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari" }
+        
+      ],
+
+      "tags": [ "modern", "bootstrap", "bootstrap 4", "app", "tablet", "phone", "desktop", "responsive", "multipurpose", "template", "theme", "fui", "hud", "gui", "ixd", "ux", "ui", "ajax", "web 2.0", "html5", "css3", "jquery", "bootlint", "business", "creative", "marketing", "agency", "portfolio", "blog", "corporate", "company", "resume" ]
+
     },
 
     {
@@ -56,7 +83,35 @@
       "homepage": "http://fantasyui.com/demo/hal/content/product-intro/",
 
       "demo": "http://fantasyui.com/demo/hal/content/product-intro/",
-      "screenshot": "http://fantasyui.com/demo/hal/content/product-intro/images/product-intro.jpg"
+      "screenshot": "http://fantasyui.com/demo/hal/content/product-intro/images/product-intro.jpg",
+
+      "licensing": [
+        { "type": "Single", "amount": 15000 },
+        { "type": "Multiuse", "amount": 150000 },
+        { "type": "Extended", "amount": 1500000 }
+      ],
+
+      "properties": [
+        { "label": "Product Type", "text": "HTML Template" },
+        { "label": "Release Date", "text": "January, 2016" },
+        { "label": "Last Updated", "text": "March, 2017" },
+        { "label": "File Types", "text": "HTML, CSS" },
+        { "label": "File Size", "text": "Under 5MB" },
+
+        { "label": "Layout Columns", "text": "Variable" },
+        { "label": "Responsive Layout", "text": "Yes" },
+        { "label": "Fluid Layout", "text": "Yes" },
+        { "label": "Fixed-width Layout", "text": "Yes" },
+
+        { "label": "Less", "text": "No" },
+        { "label": "Sass", "text": "No" },
+        { "label": "PostCSS", "text": "Yes" },
+
+        { "label": "Min Browser", "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari" }
+
+      ],
+
+      "tags": [ "modern", "bootstrap", "bootstrap 4", "app", "tablet", "phone", "desktop", "responsive", "multipurpose", "template", "theme", "fui", "hud", "gui", "ixd", "ux", "ui", "ajax", "web 2.0", "html5", "css3", "jquery", "bootlint", "business", "creative", "marketing", "agency", "portfolio", "blog", "corporate", "company", "resume" ]
 
     },
 
@@ -80,7 +135,36 @@
       "homepage": "http://fantasyui.com/demo/wintermute/content/product-intro/",
 
       "demo": "http://fantasyui.com/demo/wintermute/content/product-intro/",
-      "screenshot": "http://fantasyui.com/demo/wintermute/content/product-intro/images/product-intro.jpg"
+      "screenshot": "http://fantasyui.com/demo/wintermute/content/product-intro/images/product-intro.jpg",
+
+      "licensing": [
+        { "type": "Single", "amount": 15000 },
+        { "type": "Multiuse", "amount": 150000 },
+        { "type": "Extended", "amount": 1500000 }
+      ],
+
+      "properties": [
+        { "label": "Product Type", "text": "HTML Template" },
+        { "label": "Release Date", "text": "January, 2016" },
+        { "label": "Last Updated", "text": "March, 2017" },
+        { "label": "File Types", "text": "HTML, CSS" },
+        { "label": "File Size", "text": "Under 5MB" },
+
+        { "label": "Layout Columns", "text": "Variable" },
+        { "label": "Responsive Layout", "text": "Yes" },
+        { "label": "Fluid Layout", "text": "Yes" },
+        { "label": "Fixed-width Layout", "text": "Yes" },
+
+        { "label": "Less", "text": "No" },
+        { "label": "Sass", "text": "No" },
+        { "label": "PostCSS", "text": "Yes" },
+
+        { "label": "Min Browser", "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari" }
+
+      ],
+
+      "tags": [ "modern", "bootstrap", "bootstrap 4", "app", "tablet", "phone", "desktop", "responsive", "multipurpose", "template", "theme", "fui", "hud", "gui", "ixd", "ux", "ui", "ajax", "web 2.0", "html5", "css3", "jquery", "bootlint", "business", "creative", "marketing", "agency", "portfolio", "blog", "corporate", "company", "resume" ]
+
 
     },
 
@@ -105,7 +189,36 @@
       "homepage": "http://fantasyui.com/demo/shodan/content/product-intro/",
 
       "demo": "http://fantasyui.com/demo/shodan/content/product-intro/",
-      "screenshot": "http://fantasyui.com/demo/shodan/content/product-intro/images/product-intro.jpg"
+      "screenshot": "http://fantasyui.com/demo/shodan/content/product-intro/images/product-intro.jpg",
+
+      "licensing": [
+        { "type": "Single", "amount": 15000 },
+        { "type": "Multiuse", "amount": 150000 },
+        { "type": "Extended", "amount": 1500000 }
+      ],
+
+      "properties": [
+        { "label": "Product Type", "text": "HTML Template" },
+        { "label": "Release Date", "text": "January, 2016" },
+        { "label": "Last Updated", "text": "March, 2017" },
+        { "label": "File Types", "text": "HTML, CSS" },
+        { "label": "File Size", "text": "Under 5MB" },
+
+        { "label": "Layout Columns", "text": "Variable" },
+        { "label": "Responsive Layout", "text": "Yes" },
+        { "label": "Fluid Layout", "text": "Yes" },
+        { "label": "Fixed-width Layout", "text": "Yes" },
+
+        { "label": "Less", "text": "No" },
+        { "label": "Sass", "text": "No" },
+        { "label": "PostCSS", "text": "Yes" },
+
+        { "label": "Min Browser", "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari" }
+
+      ],
+
+      "tags": [ "modern", "bootstrap", "bootstrap 4", "app", "tablet", "phone", "desktop", "responsive", "multipurpose", "template", "theme", "fui", "hud", "gui", "ixd", "ux", "ui", "ajax", "web 2.0", "html5", "css3", "jquery", "bootlint", "business", "creative", "marketing", "agency", "portfolio", "blog", "corporate", "company", "resume" ]
+
 
     }
 
