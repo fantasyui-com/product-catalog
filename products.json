@@ -1,0 +1,50 @@
+{
+
+  "name": "Fantasy UI Product Catalog",
+  "version": "1.0.0",
+
+  "data":[
+
+    {
+      "name": "HAL",
+      "description": "Beautiful lightweight theme with hundreds of components",
+      "version": "1.0.0",
+
+      "amount": 50000,
+      "currency": "usd",
+      "deleted": true,
+
+      "author": "Alice Smith",
+      "homepage": "http://fantasyui.com/demo/hal/content/product-intro/"
+    },
+
+    {
+      "name": "Wintermute",
+      "description": "Beautiful lightweight theme with hundreds of components",
+      "version": "1.0.0",
+
+      "amount": 5000,
+      "currency": "usd",
+      "deleted": false,
+
+      "author": "Alice Smith",
+      "homepage": "http://fantasyui.com/demo/wintermute/content/product-intro/"
+    },
+
+    {
+      "name": "Shodan",
+      "description": "Beautiful lightweight theme with hundreds of components",
+      "version": "1.0.0",
+
+      "amount": 20000,
+      "currency": "usd",
+      "deleted": false,
+
+      "author": "Alice Smith",
+      "homepage": "http://fantasyui.com/demo/shodan/content/product-intro/"
+    }
+
+
+  ]
+
+}
