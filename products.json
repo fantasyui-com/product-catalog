@@ -34,9 +34,9 @@
       ],
 
       "licensing": [
-        { "type": "Standard", "amount": 15000 },
-        { "type": "Multiuse", "amount": 150000 },
-        { "type": "Extended", "amount": 300000 }
+        { "type": "standard", "amount": 15000 },
+        { "type": "multiuse", "amount": 150000 },
+        { "type": "extended", "amount": 300000 }
       ],
 
       "properties": [
@@ -86,9 +86,9 @@
       "screenshot": "http://fantasyui.com/demo/hal/content/product-intro/images/product-intro.jpg",
 
       "licensing": [
-        { "type": "Standard", "amount": 1500 },
-        { "type": "Multiuse", "amount": 15000 },
-        { "type": "Extended", "amount": 150000 }
+        { "type": "standard", "amount": 1500 },
+        { "type": "multiuse", "amount": 15000 },
+        { "type": "extended", "amount": 150000 }
       ],
 
       "properties": [
@@ -138,9 +138,9 @@
       "screenshot": "http://fantasyui.com/demo/wintermute/content/product-intro/images/product-intro.jpg",
 
       "licensing": [
-        { "type": "Standard", "amount": 1500 },
-        { "type": "Multiuse", "amount": 15000 },
-        { "type": "Extended", "amount": 150000 }
+        { "type": "standard", "amount": 1500 },
+        { "type": "multiuse", "amount": 15000 },
+        { "type": "extended", "amount": 150000 }
       ],
 
       "properties": [
@@ -192,9 +192,9 @@
       "screenshot": "http://fantasyui.com/demo/shodan/content/product-intro/images/product-intro.jpg",
 
       "licensing": [
-        { "type": "Standard", "amount": 1500 },
-        { "type": "Multiuse", "amount": 15000 },
-        { "type": "Extended", "amount": 150000 }
+        { "type": "standard", "amount": 1500 },
+        { "type": "multiuse", "amount": 15000 },
+        { "type": "extended", "amount": 150000 }
       ],
 
       "properties": [
