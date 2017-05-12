@@ -1,227 +1,2112 @@
 {
-
-  "name": "Fantasy UI Product Catalog",
+  "name": "eSELR Product Catalog",
   "version": "1.0.0",
-
-  "data":[
-
+  "data": [
     {
       "deleted": false,
-
+      "title": "Liverpool Bundle",
+      "name": "liverpool-bundle",
+      "description": "Beautiful massive product megabundle.",
+      "version": "1.0.0",
+      "currency": "usd",
+      "featured": true,
+      "popular": true,
+      "author": "Bootstrap Cards User Interface Components",
+      "authorId": "bootstrap-cards",
+      "homepage": "http://bootstrap.cards/",
+      "demo": "http://bootstrap.cards/liverpool-bundle.html",
+      "screenshot": "http://bootstrap.cards/demo/liverpool-bundle/screenshot.jpg",
+      "licensing": [
+        {
+          "type": "standard",
+          "amount": 12800
+        },
+        {
+          "type": "multiuse",
+          "amount": 25600
+        },
+        {
+          "type": "extended",
+          "amount": 51200
+        }
+      ],
+      "properties": [
+        {
+          "label": "Product Type",
+          "text": "HTML Template"
+        },
+        {
+          "label": "Release Date",
+          "text": "January, 2016"
+        },
+        {
+          "label": "Last Updated",
+          "text": "May, 2017"
+        },
+        {
+          "label": "File Types",
+          "text": "HTML, CSS"
+        },
+        {
+          "label": "File Size",
+          "text": "Under 5MB"
+        },
+        {
+          "label": "Layout Columns",
+          "text": "Variable"
+        },
+        {
+          "label": "Responsive Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fluid Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fixed-width Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Less",
+          "text": "No"
+        },
+        {
+          "label": "Sass",
+          "text": "No"
+        },
+        {
+          "label": "PostCSS",
+          "text": "Yes"
+        },
+        {
+          "label": "Min Browser",
+          "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari"
+        }
+      ],
+      "tags": [
+        "modern",
+        "bootstrap",
+        "bootstrap 4",
+        "app",
+        "tablet",
+        "phone",
+        "desktop",
+        "responsive",
+        "multipurpose",
+        "template",
+        "theme",
+        "fui",
+        "hud",
+        "gui",
+        "ixd",
+        "ux",
+        "ui",
+        "ajax",
+        "web 2.0",
+        "html5",
+        "css3",
+        "jquery",
+        "bootlint",
+        "business",
+        "creative",
+        "marketing",
+        "agency",
+        "portfolio",
+        "blog",
+        "corporate",
+        "company",
+        "resume"
+      ]
+    },
+    {
+      "deleted": false,
+      "title": "Rotterdam Bundle",
+      "name": "rotterdam-bundle",
+      "description": "Beautiful massive product megabundle.",
+      "version": "1.0.0",
+      "currency": "usd",
+      "featured": true,
+      "popular": true,
+      "author": "Bootstrap Cards User Interface Components",
+      "authorId": "bootstrap-cards",
+      "homepage": "http://bootstrap.cards/",
+      "demo": "http://bootstrap.cards/rotterdam-bundle.html",
+      "screenshot": "http://bootstrap.cards/demo/rotterdam-bundle/screenshot.jpg",
+      "licensing": [
+        {
+          "type": "standard",
+          "amount": 12800
+        },
+        {
+          "type": "multiuse",
+          "amount": 25600
+        },
+        {
+          "type": "extended",
+          "amount": 51200
+        }
+      ],
+      "properties": [
+        {
+          "label": "Product Type",
+          "text": "HTML Template"
+        },
+        {
+          "label": "Release Date",
+          "text": "January, 2016"
+        },
+        {
+          "label": "Last Updated",
+          "text": "May, 2017"
+        },
+        {
+          "label": "File Types",
+          "text": "HTML, CSS"
+        },
+        {
+          "label": "File Size",
+          "text": "Under 5MB"
+        },
+        {
+          "label": "Layout Columns",
+          "text": "Variable"
+        },
+        {
+          "label": "Responsive Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fluid Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fixed-width Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Less",
+          "text": "No"
+        },
+        {
+          "label": "Sass",
+          "text": "No"
+        },
+        {
+          "label": "PostCSS",
+          "text": "Yes"
+        },
+        {
+          "label": "Min Browser",
+          "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari"
+        }
+      ],
+      "tags": [
+        "modern",
+        "bootstrap",
+        "bootstrap 4",
+        "app",
+        "tablet",
+        "phone",
+        "desktop",
+        "responsive",
+        "multipurpose",
+        "template",
+        "theme",
+        "fui",
+        "hud",
+        "gui",
+        "ixd",
+        "ux",
+        "ui",
+        "ajax",
+        "web 2.0",
+        "html5",
+        "css3",
+        "jquery",
+        "bootlint",
+        "business",
+        "creative",
+        "marketing",
+        "agency",
+        "portfolio",
+        "blog",
+        "corporate",
+        "company",
+        "resume"
+      ]
+    },
+    {
+      "deleted": false,
+      "title": "Frankfurt Bundle",
+      "name": "frankfurt-bundle",
+      "description": "Beautiful massive product megabundle.",
+      "version": "1.0.0",
+      "currency": "usd",
+      "featured": true,
+      "popular": true,
+      "author": "Bootstrap Cards User Interface Components",
+      "authorId": "bootstrap-cards",
+      "homepage": "http://bootstrap.cards/",
+      "demo": "http://bootstrap.cards/frankfurt-bundle.html",
+      "screenshot": "http://bootstrap.cards/demo/frankfurt-bundle/screenshot.jpg",
+      "licensing": [
+        {
+          "type": "standard",
+          "amount": 12800
+        },
+        {
+          "type": "multiuse",
+          "amount": 25600
+        },
+        {
+          "type": "extended",
+          "amount": 51200
+        }
+      ],
+      "properties": [
+        {
+          "label": "Product Type",
+          "text": "HTML Template"
+        },
+        {
+          "label": "Release Date",
+          "text": "January, 2016"
+        },
+        {
+          "label": "Last Updated",
+          "text": "May, 2017"
+        },
+        {
+          "label": "File Types",
+          "text": "HTML, CSS"
+        },
+        {
+          "label": "File Size",
+          "text": "Under 5MB"
+        },
+        {
+          "label": "Layout Columns",
+          "text": "Variable"
+        },
+        {
+          "label": "Responsive Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fluid Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fixed-width Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Less",
+          "text": "No"
+        },
+        {
+          "label": "Sass",
+          "text": "No"
+        },
+        {
+          "label": "PostCSS",
+          "text": "Yes"
+        },
+        {
+          "label": "Min Browser",
+          "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari"
+        }
+      ],
+      "tags": [
+        "modern",
+        "bootstrap",
+        "bootstrap 4",
+        "app",
+        "tablet",
+        "phone",
+        "desktop",
+        "responsive",
+        "multipurpose",
+        "template",
+        "theme",
+        "fui",
+        "hud",
+        "gui",
+        "ixd",
+        "ux",
+        "ui",
+        "ajax",
+        "web 2.0",
+        "html5",
+        "css3",
+        "jquery",
+        "bootlint",
+        "business",
+        "creative",
+        "marketing",
+        "agency",
+        "portfolio",
+        "blog",
+        "corporate",
+        "company",
+        "resume"
+      ]
+    },
+    {
+      "deleted": false,
+      "title": "Theseus Bundle",
+      "name": "theseus-bundle",
+      "description": "Beautiful massive product megabundle.",
+      "version": "1.0.0",
+      "currency": "usd",
+      "featured": true,
+      "popular": true,
+      "author": "Futuristic and Fantasy User Interfaces",
+      "authorId": "fuigui-com",
+      "homepage": "http://fuigui.com/",
+      "demo": "http://fuigui.com/theseus-bundle.html",
+      "screenshot": "http://fuigui.com/demo/theseus-bundle/screenshot.jpg",
+      "licensing": [
+        {
+          "type": "standard",
+          "amount": 12800
+        },
+        {
+          "type": "multiuse",
+          "amount": 25600
+        },
+        {
+          "type": "extended",
+          "amount": 51200
+        }
+      ],
+      "properties": [
+        {
+          "label": "Product Type",
+          "text": "HTML Template"
+        },
+        {
+          "label": "Release Date",
+          "text": "January, 2016"
+        },
+        {
+          "label": "Last Updated",
+          "text": "May, 2017"
+        },
+        {
+          "label": "File Types",
+          "text": "HTML, CSS"
+        },
+        {
+          "label": "File Size",
+          "text": "Under 5MB"
+        },
+        {
+          "label": "Layout Columns",
+          "text": "Variable"
+        },
+        {
+          "label": "Responsive Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fluid Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fixed-width Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Less",
+          "text": "No"
+        },
+        {
+          "label": "Sass",
+          "text": "No"
+        },
+        {
+          "label": "PostCSS",
+          "text": "Yes"
+        },
+        {
+          "label": "Min Browser",
+          "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari"
+        }
+      ],
+      "tags": [
+        "modern",
+        "bootstrap",
+        "bootstrap 4",
+        "app",
+        "tablet",
+        "phone",
+        "desktop",
+        "responsive",
+        "multipurpose",
+        "template",
+        "theme",
+        "fui",
+        "hud",
+        "gui",
+        "ixd",
+        "ux",
+        "ui",
+        "ajax",
+        "web 2.0",
+        "html5",
+        "css3",
+        "jquery",
+        "bootlint",
+        "business",
+        "creative",
+        "marketing",
+        "agency",
+        "portfolio",
+        "blog",
+        "corporate",
+        "company",
+        "resume"
+      ]
+    },
+    {
+      "deleted": false,
+      "title": "Hermes Bundle",
+      "name": "hermes-bundle",
+      "description": "Beautiful massive product megabundle.",
+      "version": "1.0.0",
+      "currency": "usd",
+      "featured": true,
+      "popular": true,
+      "author": "Futuristic and Fantasy User Interfaces",
+      "authorId": "fuigui-com",
+      "homepage": "http://fuigui.com/",
+      "demo": "http://fuigui.com/hermes-bundle.html",
+      "screenshot": "http://fuigui.com/demo/hermes-bundle/screenshot.jpg",
+      "licensing": [
+        {
+          "type": "standard",
+          "amount": 12800
+        },
+        {
+          "type": "multiuse",
+          "amount": 25600
+        },
+        {
+          "type": "extended",
+          "amount": 51200
+        }
+      ],
+      "properties": [
+        {
+          "label": "Product Type",
+          "text": "HTML Template"
+        },
+        {
+          "label": "Release Date",
+          "text": "January, 2016"
+        },
+        {
+          "label": "Last Updated",
+          "text": "May, 2017"
+        },
+        {
+          "label": "File Types",
+          "text": "HTML, CSS"
+        },
+        {
+          "label": "File Size",
+          "text": "Under 5MB"
+        },
+        {
+          "label": "Layout Columns",
+          "text": "Variable"
+        },
+        {
+          "label": "Responsive Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fluid Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fixed-width Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Less",
+          "text": "No"
+        },
+        {
+          "label": "Sass",
+          "text": "No"
+        },
+        {
+          "label": "PostCSS",
+          "text": "Yes"
+        },
+        {
+          "label": "Min Browser",
+          "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari"
+        }
+      ],
+      "tags": [
+        "modern",
+        "bootstrap",
+        "bootstrap 4",
+        "app",
+        "tablet",
+        "phone",
+        "desktop",
+        "responsive",
+        "multipurpose",
+        "template",
+        "theme",
+        "fui",
+        "hud",
+        "gui",
+        "ixd",
+        "ux",
+        "ui",
+        "ajax",
+        "web 2.0",
+        "html5",
+        "css3",
+        "jquery",
+        "bootlint",
+        "business",
+        "creative",
+        "marketing",
+        "agency",
+        "portfolio",
+        "blog",
+        "corporate",
+        "company",
+        "resume"
+      ]
+    },
+    {
+      "deleted": false,
+      "title": "Scorpio Bundle",
+      "name": "scorpio-bundle",
+      "description": "Beautiful massive product megabundle.",
+      "version": "1.0.0",
+      "currency": "usd",
+      "featured": true,
+      "popular": true,
+      "author": "Futuristic and Fantasy User Interfaces",
+      "authorId": "fuigui-com",
+      "homepage": "http://fuigui.com/",
+      "demo": "http://fuigui.com/scorpio-bundle.html",
+      "screenshot": "http://fuigui.com/demo/scorpio-bundle/screenshot.jpg",
+      "licensing": [
+        {
+          "type": "standard",
+          "amount": 12800
+        },
+        {
+          "type": "multiuse",
+          "amount": 25600
+        },
+        {
+          "type": "extended",
+          "amount": 51200
+        }
+      ],
+      "properties": [
+        {
+          "label": "Product Type",
+          "text": "HTML Template"
+        },
+        {
+          "label": "Release Date",
+          "text": "January, 2016"
+        },
+        {
+          "label": "Last Updated",
+          "text": "May, 2017"
+        },
+        {
+          "label": "File Types",
+          "text": "HTML, CSS"
+        },
+        {
+          "label": "File Size",
+          "text": "Under 5MB"
+        },
+        {
+          "label": "Layout Columns",
+          "text": "Variable"
+        },
+        {
+          "label": "Responsive Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fluid Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fixed-width Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Less",
+          "text": "No"
+        },
+        {
+          "label": "Sass",
+          "text": "No"
+        },
+        {
+          "label": "PostCSS",
+          "text": "Yes"
+        },
+        {
+          "label": "Min Browser",
+          "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari"
+        }
+      ],
+      "tags": [
+        "modern",
+        "bootstrap",
+        "bootstrap 4",
+        "app",
+        "tablet",
+        "phone",
+        "desktop",
+        "responsive",
+        "multipurpose",
+        "template",
+        "theme",
+        "fui",
+        "hud",
+        "gui",
+        "ixd",
+        "ux",
+        "ui",
+        "ajax",
+        "web 2.0",
+        "html5",
+        "css3",
+        "jquery",
+        "bootlint",
+        "business",
+        "creative",
+        "marketing",
+        "agency",
+        "portfolio",
+        "blog",
+        "corporate",
+        "company",
+        "resume"
+      ]
+    },
+    {
+      "deleted": false,
+      "title": "Mercury Bundle",
+      "name": "mercury-bundle",
+      "description": "Beautiful massive product megabundle.",
+      "version": "1.0.0",
+      "currency": "usd",
+      "featured": true,
+      "popular": true,
+      "author": "Futuristic User Interface",
+      "authorId": "futuristicui-com",
+      "homepage": "http://futuristicui.com/",
+      "demo": "http://futuristicui.com/mercury-bundle.html",
+      "screenshot": "http://futuristicui.com/demo/mercury-bundle/screenshot.jpg",
+      "licensing": [
+        {
+          "type": "standard",
+          "amount": 12800
+        },
+        {
+          "type": "multiuse",
+          "amount": 25600
+        },
+        {
+          "type": "extended",
+          "amount": 51200
+        }
+      ],
+      "properties": [
+        {
+          "label": "Product Type",
+          "text": "HTML Template"
+        },
+        {
+          "label": "Release Date",
+          "text": "January, 2016"
+        },
+        {
+          "label": "Last Updated",
+          "text": "May, 2017"
+        },
+        {
+          "label": "File Types",
+          "text": "HTML, CSS"
+        },
+        {
+          "label": "File Size",
+          "text": "Under 5MB"
+        },
+        {
+          "label": "Layout Columns",
+          "text": "Variable"
+        },
+        {
+          "label": "Responsive Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fluid Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fixed-width Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Less",
+          "text": "No"
+        },
+        {
+          "label": "Sass",
+          "text": "No"
+        },
+        {
+          "label": "PostCSS",
+          "text": "Yes"
+        },
+        {
+          "label": "Min Browser",
+          "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari"
+        }
+      ],
+      "tags": [
+        "modern",
+        "bootstrap",
+        "bootstrap 4",
+        "app",
+        "tablet",
+        "phone",
+        "desktop",
+        "responsive",
+        "multipurpose",
+        "template",
+        "theme",
+        "fui",
+        "hud",
+        "gui",
+        "ixd",
+        "ux",
+        "ui",
+        "ajax",
+        "web 2.0",
+        "html5",
+        "css3",
+        "jquery",
+        "bootlint",
+        "business",
+        "creative",
+        "marketing",
+        "agency",
+        "portfolio",
+        "blog",
+        "corporate",
+        "company",
+        "resume"
+      ]
+    },
+    {
+      "deleted": false,
+      "title": "Venus Bundle",
+      "name": "venus-bundle",
+      "description": "Beautiful massive product megabundle.",
+      "version": "1.0.0",
+      "currency": "usd",
+      "featured": true,
+      "popular": true,
+      "author": "Futuristic User Interface",
+      "authorId": "futuristicui-com",
+      "homepage": "http://futuristicui.com/",
+      "demo": "http://futuristicui.com/venus-bundle.html",
+      "screenshot": "http://futuristicui.com/demo/venus-bundle/screenshot.jpg",
+      "licensing": [
+        {
+          "type": "standard",
+          "amount": 12800
+        },
+        {
+          "type": "multiuse",
+          "amount": 25600
+        },
+        {
+          "type": "extended",
+          "amount": 51200
+        }
+      ],
+      "properties": [
+        {
+          "label": "Product Type",
+          "text": "HTML Template"
+        },
+        {
+          "label": "Release Date",
+          "text": "January, 2016"
+        },
+        {
+          "label": "Last Updated",
+          "text": "May, 2017"
+        },
+        {
+          "label": "File Types",
+          "text": "HTML, CSS"
+        },
+        {
+          "label": "File Size",
+          "text": "Under 5MB"
+        },
+        {
+          "label": "Layout Columns",
+          "text": "Variable"
+        },
+        {
+          "label": "Responsive Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fluid Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fixed-width Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Less",
+          "text": "No"
+        },
+        {
+          "label": "Sass",
+          "text": "No"
+        },
+        {
+          "label": "PostCSS",
+          "text": "Yes"
+        },
+        {
+          "label": "Min Browser",
+          "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari"
+        }
+      ],
+      "tags": [
+        "modern",
+        "bootstrap",
+        "bootstrap 4",
+        "app",
+        "tablet",
+        "phone",
+        "desktop",
+        "responsive",
+        "multipurpose",
+        "template",
+        "theme",
+        "fui",
+        "hud",
+        "gui",
+        "ixd",
+        "ux",
+        "ui",
+        "ajax",
+        "web 2.0",
+        "html5",
+        "css3",
+        "jquery",
+        "bootlint",
+        "business",
+        "creative",
+        "marketing",
+        "agency",
+        "portfolio",
+        "blog",
+        "corporate",
+        "company",
+        "resume"
+      ]
+    },
+    {
+      "deleted": false,
+      "title": "Earth Bundle",
+      "name": "earth-bundle",
+      "description": "Beautiful massive product megabundle.",
+      "version": "1.0.0",
+      "currency": "usd",
+      "featured": true,
+      "popular": true,
+      "author": "Futuristic User Interface",
+      "authorId": "futuristicui-com",
+      "homepage": "http://futuristicui.com/",
+      "demo": "http://futuristicui.com/earth-bundle.html",
+      "screenshot": "http://futuristicui.com/demo/earth-bundle/screenshot.jpg",
+      "licensing": [
+        {
+          "type": "standard",
+          "amount": 12800
+        },
+        {
+          "type": "multiuse",
+          "amount": 25600
+        },
+        {
+          "type": "extended",
+          "amount": 51200
+        }
+      ],
+      "properties": [
+        {
+          "label": "Product Type",
+          "text": "HTML Template"
+        },
+        {
+          "label": "Release Date",
+          "text": "January, 2016"
+        },
+        {
+          "label": "Last Updated",
+          "text": "May, 2017"
+        },
+        {
+          "label": "File Types",
+          "text": "HTML, CSS"
+        },
+        {
+          "label": "File Size",
+          "text": "Under 5MB"
+        },
+        {
+          "label": "Layout Columns",
+          "text": "Variable"
+        },
+        {
+          "label": "Responsive Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fluid Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fixed-width Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Less",
+          "text": "No"
+        },
+        {
+          "label": "Sass",
+          "text": "No"
+        },
+        {
+          "label": "PostCSS",
+          "text": "Yes"
+        },
+        {
+          "label": "Min Browser",
+          "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari"
+        }
+      ],
+      "tags": [
+        "modern",
+        "bootstrap",
+        "bootstrap 4",
+        "app",
+        "tablet",
+        "phone",
+        "desktop",
+        "responsive",
+        "multipurpose",
+        "template",
+        "theme",
+        "fui",
+        "hud",
+        "gui",
+        "ixd",
+        "ux",
+        "ui",
+        "ajax",
+        "web 2.0",
+        "html5",
+        "css3",
+        "jquery",
+        "bootlint",
+        "business",
+        "creative",
+        "marketing",
+        "agency",
+        "portfolio",
+        "blog",
+        "corporate",
+        "company",
+        "resume"
+      ]
+    },
+    {
+      "deleted": false,
+      "title": "Pixel Bundle",
+      "name": "pixel-bundle",
+      "description": "Beautiful massive product megabundle.",
+      "version": "1.0.0",
+      "currency": "usd",
+      "featured": true,
+      "popular": true,
+      "author": "Fantasy User Interface",
+      "authorId": "fantasyui-com",
+      "homepage": "http://fantasyui.com/",
+      "demo": "http://fantasyui.com/pixel-bundle.html",
+      "screenshot": "http://fantasyui.com/demo/pixel-bundle/screenshot.jpg",
+      "licensing": [
+        {
+          "type": "standard",
+          "amount": 12800
+        },
+        {
+          "type": "multiuse",
+          "amount": 25600
+        },
+        {
+          "type": "extended",
+          "amount": 51200
+        }
+      ],
+      "properties": [
+        {
+          "label": "Product Type",
+          "text": "HTML Template"
+        },
+        {
+          "label": "Release Date",
+          "text": "January, 2016"
+        },
+        {
+          "label": "Last Updated",
+          "text": "May, 2017"
+        },
+        {
+          "label": "File Types",
+          "text": "HTML, CSS"
+        },
+        {
+          "label": "File Size",
+          "text": "Under 5MB"
+        },
+        {
+          "label": "Layout Columns",
+          "text": "Variable"
+        },
+        {
+          "label": "Responsive Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fluid Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fixed-width Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Less",
+          "text": "No"
+        },
+        {
+          "label": "Sass",
+          "text": "No"
+        },
+        {
+          "label": "PostCSS",
+          "text": "Yes"
+        },
+        {
+          "label": "Min Browser",
+          "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari"
+        }
+      ],
+      "tags": [
+        "modern",
+        "bootstrap",
+        "bootstrap 4",
+        "app",
+        "tablet",
+        "phone",
+        "desktop",
+        "responsive",
+        "multipurpose",
+        "template",
+        "theme",
+        "fui",
+        "hud",
+        "gui",
+        "ixd",
+        "ux",
+        "ui",
+        "ajax",
+        "web 2.0",
+        "html5",
+        "css3",
+        "jquery",
+        "bootlint",
+        "business",
+        "creative",
+        "marketing",
+        "agency",
+        "portfolio",
+        "blog",
+        "corporate",
+        "company",
+        "resume"
+      ]
+    },
+    {
+      "deleted": false,
+      "title": "Swatch Bundle",
+      "name": "swatch-bundle",
+      "description": "Beautiful massive product megabundle.",
+      "version": "1.0.0",
+      "currency": "usd",
+      "featured": true,
+      "popular": true,
+      "author": "Fantasy User Interface",
+      "authorId": "fantasyui-com",
+      "homepage": "http://fantasyui.com/",
+      "demo": "http://fantasyui.com/swatch-bundle.html",
+      "screenshot": "http://fantasyui.com/demo/swatch-bundle/screenshot.jpg",
+      "licensing": [
+        {
+          "type": "standard",
+          "amount": 12800
+        },
+        {
+          "type": "multiuse",
+          "amount": 25600
+        },
+        {
+          "type": "extended",
+          "amount": 51200
+        }
+      ],
+      "properties": [
+        {
+          "label": "Product Type",
+          "text": "HTML Template"
+        },
+        {
+          "label": "Release Date",
+          "text": "January, 2016"
+        },
+        {
+          "label": "Last Updated",
+          "text": "May, 2017"
+        },
+        {
+          "label": "File Types",
+          "text": "HTML, CSS"
+        },
+        {
+          "label": "File Size",
+          "text": "Under 5MB"
+        },
+        {
+          "label": "Layout Columns",
+          "text": "Variable"
+        },
+        {
+          "label": "Responsive Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fluid Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fixed-width Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Less",
+          "text": "No"
+        },
+        {
+          "label": "Sass",
+          "text": "No"
+        },
+        {
+          "label": "PostCSS",
+          "text": "Yes"
+        },
+        {
+          "label": "Min Browser",
+          "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari"
+        }
+      ],
+      "tags": [
+        "modern",
+        "bootstrap",
+        "bootstrap 4",
+        "app",
+        "tablet",
+        "phone",
+        "desktop",
+        "responsive",
+        "multipurpose",
+        "template",
+        "theme",
+        "fui",
+        "hud",
+        "gui",
+        "ixd",
+        "ux",
+        "ui",
+        "ajax",
+        "web 2.0",
+        "html5",
+        "css3",
+        "jquery",
+        "bootlint",
+        "business",
+        "creative",
+        "marketing",
+        "agency",
+        "portfolio",
+        "blog",
+        "corporate",
+        "company",
+        "resume"
+      ]
+    },
+    {
+      "deleted": false,
       "title": "Mega Bundle",
       "name": "mega-bundle",
       "description": "Beautiful massive product megabundle.",
       "version": "1.0.0",
-
       "currency": "usd",
-
       "featured": true,
       "popular": true,
-
-      "author": "Fantasy User Interface - Motion Picture Quality Bootstrap 4 Fantasy UI Kits",
+      "author": "Fantasy User Interface",
       "authorId": "fantasyui-com",
-
-      "homepage": "http://fantasyui.com/mega-bundle.html",
-
+      "homepage": "http://fantasyui.com/",
       "demo": "http://fantasyui.com/mega-bundle.html",
-
       "screenshot": "http://fantasyui.com/demo/mega-bundle/screenshot.jpg",
-
-      "screenshots": [
-        "http://fantasyui.com/demo/mega-bundle/aardwolf/content/product-intro/images/product-intro.jpg",
-        "http://fantasyui.com/demo/mega-bundle/nanook/content/product-intro/images/product-intro.jpg",
-        "http://fantasyui.com/demo/mega-bundle/minerva/content/product-intro/images/product-intro.jpg"
-      ],
-
       "licensing": [
-        { "type": "standard", "amount": 15000 },
-        { "type": "multiuse", "amount": 150000 },
-        { "type": "extended", "amount": 300000 }
+        {
+          "type": "standard",
+          "amount": 12800
+        },
+        {
+          "type": "multiuse",
+          "amount": 25600
+        },
+        {
+          "type": "extended",
+          "amount": 51200
+        }
       ],
-
       "properties": [
-        { "label": "Product Type", "text": "HTML Template" },
-        { "label": "Release Date", "text": "January, 2016" },
-        { "label": "Last Updated", "text": "March, 2017" },
-        { "label": "File Types", "text": "HTML, CSS" },
-        { "label": "File Size", "text": "Under 5MB" },
-
-        { "label": "Layout Columns", "text": "Variable" },
-        { "label": "Responsive Layout", "text": "Yes" },
-        { "label": "Fluid Layout", "text": "Yes" },
-        { "label": "Fixed-width Layout", "text": "Yes" },
-
-        { "label": "Less", "text": "No" },
-        { "label": "Sass", "text": "No" },
-        { "label": "PostCSS", "text": "Yes" },
-
-        { "label": "Min Browser", "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari" }
-
+        {
+          "label": "Product Type",
+          "text": "HTML Template"
+        },
+        {
+          "label": "Release Date",
+          "text": "January, 2016"
+        },
+        {
+          "label": "Last Updated",
+          "text": "May, 2017"
+        },
+        {
+          "label": "File Types",
+          "text": "HTML, CSS"
+        },
+        {
+          "label": "File Size",
+          "text": "Under 5MB"
+        },
+        {
+          "label": "Layout Columns",
+          "text": "Variable"
+        },
+        {
+          "label": "Responsive Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fluid Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fixed-width Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Less",
+          "text": "No"
+        },
+        {
+          "label": "Sass",
+          "text": "No"
+        },
+        {
+          "label": "PostCSS",
+          "text": "Yes"
+        },
+        {
+          "label": "Min Browser",
+          "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari"
+        }
       ],
-
-      "tags": [ "modern", "bootstrap", "bootstrap 4", "app", "tablet", "phone", "desktop", "responsive", "multipurpose", "template", "theme", "fui", "hud", "gui", "ixd", "ux", "ui", "ajax", "web 2.0", "html5", "css3", "jquery", "bootlint", "business", "creative", "marketing", "agency", "portfolio", "blog", "corporate", "company", "resume" ]
-
+      "tags": [
+        "modern",
+        "bootstrap",
+        "bootstrap 4",
+        "app",
+        "tablet",
+        "phone",
+        "desktop",
+        "responsive",
+        "multipurpose",
+        "template",
+        "theme",
+        "fui",
+        "hud",
+        "gui",
+        "ixd",
+        "ux",
+        "ui",
+        "ajax",
+        "web 2.0",
+        "html5",
+        "css3",
+        "jquery",
+        "bootlint",
+        "business",
+        "creative",
+        "marketing",
+        "agency",
+        "portfolio",
+        "blog",
+        "corporate",
+        "company",
+        "resume"
+      ]
     },
-
     {
       "deleted": false,
-
-      "title": "HAL",
-      "name": "hal",
-      "description": "Beautiful lightweight theme with hundreds of components",
+      "title": "Delta Bundle",
+      "name": "delta-bundle",
+      "description": "Beautiful massive product megabundle.",
       "version": "1.0.0",
-
-      "amount": 1000,
       "currency": "usd",
-
-      "popular": true,
       "featured": true,
-
-      "author": "Fantasy User Interface - Motion Picture Quality Bootstrap 4 Fantasy UI Kits",
-      "authorId": "fantasyui-com",
-
-      "homepage": "http://fantasyui.com/demo/hal/content/product-intro/",
-
-      "demo": "http://fantasyui.com/demo/hal/content/product-intro/",
-      "screenshot": "http://fantasyui.com/demo/hal/content/product-intro/images/product-intro.jpg",
-
+      "popular": true,
+      "author": "Fantasy User Interface Kits",
+      "authorId": "fuikit-com",
+      "homepage": "http://fuikit.com/",
+      "demo": "http://fuikit.com/delta-bundle.html",
+      "screenshot": "http://fuikit.com/demo/delta-bundle/screenshot.jpg",
       "licensing": [
-        { "type": "standard", "amount": 1500 },
-        { "type": "multiuse", "amount": 15000 },
-        { "type": "extended", "amount": 150000 }
+        {
+          "type": "standard",
+          "amount": 12800
+        },
+        {
+          "type": "multiuse",
+          "amount": 25600
+        },
+        {
+          "type": "extended",
+          "amount": 51200
+        }
       ],
-
       "properties": [
-        { "label": "Product Type", "text": "HTML Template" },
-        { "label": "Release Date", "text": "January, 2016" },
-        { "label": "Last Updated", "text": "March, 2017" },
-        { "label": "File Types", "text": "HTML, CSS" },
-        { "label": "File Size", "text": "Under 5MB" },
-
-        { "label": "Layout Columns", "text": "Variable" },
-        { "label": "Responsive Layout", "text": "Yes" },
-        { "label": "Fluid Layout", "text": "Yes" },
-        { "label": "Fixed-width Layout", "text": "Yes" },
-
-        { "label": "Less", "text": "No" },
-        { "label": "Sass", "text": "No" },
-        { "label": "PostCSS", "text": "Yes" },
-
-        { "label": "Min Browser", "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari" }
-
+        {
+          "label": "Product Type",
+          "text": "HTML Template"
+        },
+        {
+          "label": "Release Date",
+          "text": "January, 2016"
+        },
+        {
+          "label": "Last Updated",
+          "text": "May, 2017"
+        },
+        {
+          "label": "File Types",
+          "text": "HTML, CSS"
+        },
+        {
+          "label": "File Size",
+          "text": "Under 5MB"
+        },
+        {
+          "label": "Layout Columns",
+          "text": "Variable"
+        },
+        {
+          "label": "Responsive Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fluid Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fixed-width Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Less",
+          "text": "No"
+        },
+        {
+          "label": "Sass",
+          "text": "No"
+        },
+        {
+          "label": "PostCSS",
+          "text": "Yes"
+        },
+        {
+          "label": "Min Browser",
+          "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari"
+        }
       ],
-
-      "tags": [ "modern", "bootstrap", "bootstrap 4", "app", "tablet", "phone", "desktop", "responsive", "multipurpose", "template", "theme", "fui", "hud", "gui", "ixd", "ux", "ui", "ajax", "web 2.0", "html5", "css3", "jquery", "bootlint", "business", "creative", "marketing", "agency", "portfolio", "blog", "corporate", "company", "resume" ]
-
+      "tags": [
+        "modern",
+        "bootstrap",
+        "bootstrap 4",
+        "app",
+        "tablet",
+        "phone",
+        "desktop",
+        "responsive",
+        "multipurpose",
+        "template",
+        "theme",
+        "fui",
+        "hud",
+        "gui",
+        "ixd",
+        "ux",
+        "ui",
+        "ajax",
+        "web 2.0",
+        "html5",
+        "css3",
+        "jquery",
+        "bootlint",
+        "business",
+        "creative",
+        "marketing",
+        "agency",
+        "portfolio",
+        "blog",
+        "corporate",
+        "company",
+        "resume"
+      ]
     },
-
     {
       "deleted": false,
-
-      "title": "Wintermute",
-      "name": "wintermute",
-      "description": "Beautiful lightweight theme with hundreds of components",
+      "title": "Echo Bundle",
+      "name": "echo-bundle",
+      "description": "Beautiful massive product megabundle.",
       "version": "1.0.0",
-
-      "amount": 1000,
       "currency": "usd",
-
+      "featured": true,
       "popular": true,
-      "featured": false,
-
-      "author": "Fantasy User Interface - Motion Picture Quality Bootstrap 4 Fantasy UI Kits",
-      "authorId": "fantasyui-com",
-
-      "homepage": "http://fantasyui.com/demo/wintermute/content/product-intro/",
-
-      "demo": "http://fantasyui.com/demo/wintermute/content/product-intro/",
-      "screenshot": "http://fantasyui.com/demo/wintermute/content/product-intro/images/product-intro.jpg",
-
+      "author": "Fantasy User Interface Kits",
+      "authorId": "fuikit-com",
+      "homepage": "http://fuikit.com/",
+      "demo": "http://fuikit.com/echo-bundle.html",
+      "screenshot": "http://fuikit.com/demo/echo-bundle/screenshot.jpg",
       "licensing": [
-        { "type": "standard", "amount": 1500 },
-        { "type": "multiuse", "amount": 15000 },
-        { "type": "extended", "amount": 150000 }
+        {
+          "type": "standard",
+          "amount": 12800
+        },
+        {
+          "type": "multiuse",
+          "amount": 25600
+        },
+        {
+          "type": "extended",
+          "amount": 51200
+        }
       ],
-
       "properties": [
-        { "label": "Product Type", "text": "HTML Template" },
-        { "label": "Release Date", "text": "January, 2016" },
-        { "label": "Last Updated", "text": "March, 2017" },
-        { "label": "File Types", "text": "HTML, CSS" },
-        { "label": "File Size", "text": "Under 5MB" },
-
-        { "label": "Layout Columns", "text": "Variable" },
-        { "label": "Responsive Layout", "text": "Yes" },
-        { "label": "Fluid Layout", "text": "Yes" },
-        { "label": "Fixed-width Layout", "text": "Yes" },
-
-        { "label": "Less", "text": "No" },
-        { "label": "Sass", "text": "No" },
-        { "label": "PostCSS", "text": "Yes" },
-
-        { "label": "Min Browser", "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari" }
-
+        {
+          "label": "Product Type",
+          "text": "HTML Template"
+        },
+        {
+          "label": "Release Date",
+          "text": "January, 2016"
+        },
+        {
+          "label": "Last Updated",
+          "text": "May, 2017"
+        },
+        {
+          "label": "File Types",
+          "text": "HTML, CSS"
+        },
+        {
+          "label": "File Size",
+          "text": "Under 5MB"
+        },
+        {
+          "label": "Layout Columns",
+          "text": "Variable"
+        },
+        {
+          "label": "Responsive Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fluid Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fixed-width Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Less",
+          "text": "No"
+        },
+        {
+          "label": "Sass",
+          "text": "No"
+        },
+        {
+          "label": "PostCSS",
+          "text": "Yes"
+        },
+        {
+          "label": "Min Browser",
+          "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari"
+        }
       ],
-
-      "tags": [ "modern", "bootstrap", "bootstrap 4", "app", "tablet", "phone", "desktop", "responsive", "multipurpose", "template", "theme", "fui", "hud", "gui", "ixd", "ux", "ui", "ajax", "web 2.0", "html5", "css3", "jquery", "bootlint", "business", "creative", "marketing", "agency", "portfolio", "blog", "corporate", "company", "resume" ]
-
-
+      "tags": [
+        "modern",
+        "bootstrap",
+        "bootstrap 4",
+        "app",
+        "tablet",
+        "phone",
+        "desktop",
+        "responsive",
+        "multipurpose",
+        "template",
+        "theme",
+        "fui",
+        "hud",
+        "gui",
+        "ixd",
+        "ux",
+        "ui",
+        "ajax",
+        "web 2.0",
+        "html5",
+        "css3",
+        "jquery",
+        "bootlint",
+        "business",
+        "creative",
+        "marketing",
+        "agency",
+        "portfolio",
+        "blog",
+        "corporate",
+        "company",
+        "resume"
+      ]
     },
-
     {
       "deleted": false,
-
-      "title": "Shodan",
-      "name": "shodan",
-
-      "description": "Beautiful lightweight theme with hundreds of components",
+      "title": "Foxtrot Bundle",
+      "name": "foxtrot-bundle",
+      "description": "Beautiful massive product megabundle.",
       "version": "1.0.0",
-
-      "amount": 1000,
       "currency": "usd",
-
+      "featured": true,
       "popular": true,
-      "featured": false,
-
-      "author": "Fantasy User Interface - Motion Picture Quality Bootstrap 4 Fantasy UI Kits",
-      "authorId": "fantasyui-com",
-
-      "homepage": "http://fantasyui.com/demo/shodan/content/product-intro/",
-
-      "demo": "http://fantasyui.com/demo/shodan/content/product-intro/",
-      "screenshot": "http://fantasyui.com/demo/shodan/content/product-intro/images/product-intro.jpg",
-
+      "author": "Fantasy User Interface Kits",
+      "authorId": "fuikit-com",
+      "homepage": "http://fuikit.com/",
+      "demo": "http://fuikit.com/foxtrot-bundle.html",
+      "screenshot": "http://fuikit.com/demo/foxtrot-bundle/screenshot.jpg",
       "licensing": [
-        { "type": "standard", "amount": 1500 },
-        { "type": "multiuse", "amount": 15000 },
-        { "type": "extended", "amount": 150000 }
+        {
+          "type": "standard",
+          "amount": 12800
+        },
+        {
+          "type": "multiuse",
+          "amount": 25600
+        },
+        {
+          "type": "extended",
+          "amount": 51200
+        }
       ],
-
       "properties": [
-        { "label": "Product Type", "text": "HTML Template" },
-        { "label": "Release Date", "text": "January, 2016" },
-        { "label": "Last Updated", "text": "March, 2017" },
-        { "label": "File Types", "text": "HTML, CSS" },
-        { "label": "File Size", "text": "Under 5MB" },
-
-        { "label": "Layout Columns", "text": "Variable" },
-        { "label": "Responsive Layout", "text": "Yes" },
-        { "label": "Fluid Layout", "text": "Yes" },
-        { "label": "Fixed-width Layout", "text": "Yes" },
-
-        { "label": "Less", "text": "No" },
-        { "label": "Sass", "text": "No" },
-        { "label": "PostCSS", "text": "Yes" },
-
-        { "label": "Min Browser", "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari" }
-
+        {
+          "label": "Product Type",
+          "text": "HTML Template"
+        },
+        {
+          "label": "Release Date",
+          "text": "January, 2016"
+        },
+        {
+          "label": "Last Updated",
+          "text": "May, 2017"
+        },
+        {
+          "label": "File Types",
+          "text": "HTML, CSS"
+        },
+        {
+          "label": "File Size",
+          "text": "Under 5MB"
+        },
+        {
+          "label": "Layout Columns",
+          "text": "Variable"
+        },
+        {
+          "label": "Responsive Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fluid Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fixed-width Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Less",
+          "text": "No"
+        },
+        {
+          "label": "Sass",
+          "text": "No"
+        },
+        {
+          "label": "PostCSS",
+          "text": "Yes"
+        },
+        {
+          "label": "Min Browser",
+          "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari"
+        }
       ],
-
-      "tags": [ "modern", "bootstrap", "bootstrap 4", "app", "tablet", "phone", "desktop", "responsive", "multipurpose", "template", "theme", "fui", "hud", "gui", "ixd", "ux", "ui", "ajax", "web 2.0", "html5", "css3", "jquery", "bootlint", "business", "creative", "marketing", "agency", "portfolio", "blog", "corporate", "company", "resume" ]
-
-
+      "tags": [
+        "modern",
+        "bootstrap",
+        "bootstrap 4",
+        "app",
+        "tablet",
+        "phone",
+        "desktop",
+        "responsive",
+        "multipurpose",
+        "template",
+        "theme",
+        "fui",
+        "hud",
+        "gui",
+        "ixd",
+        "ux",
+        "ui",
+        "ajax",
+        "web 2.0",
+        "html5",
+        "css3",
+        "jquery",
+        "bootlint",
+        "business",
+        "creative",
+        "marketing",
+        "agency",
+        "portfolio",
+        "blog",
+        "corporate",
+        "company",
+        "resume"
+      ]
+    },
+    {
+      "deleted": false,
+      "title": "Dragonfly Bundle",
+      "name": "dragonfly-bundle",
+      "description": "Beautiful massive product megabundle.",
+      "version": "1.0.0",
+      "currency": "usd",
+      "featured": true,
+      "popular": true,
+      "author": "Hominus Nocturna Nocturnal User Interface Development",
+      "authorId": "hominusnocturna-com",
+      "homepage": "http://hominusnocturna.com/",
+      "demo": "http://hominusnocturna.com/dragonfly-bundle.html",
+      "screenshot": "http://hominusnocturna.com/demo/dragonfly-bundle/screenshot.jpg",
+      "licensing": [
+        {
+          "type": "standard",
+          "amount": 12800
+        },
+        {
+          "type": "multiuse",
+          "amount": 25600
+        },
+        {
+          "type": "extended",
+          "amount": 51200
+        }
+      ],
+      "properties": [
+        {
+          "label": "Product Type",
+          "text": "HTML Template"
+        },
+        {
+          "label": "Release Date",
+          "text": "January, 2016"
+        },
+        {
+          "label": "Last Updated",
+          "text": "May, 2017"
+        },
+        {
+          "label": "File Types",
+          "text": "HTML, CSS"
+        },
+        {
+          "label": "File Size",
+          "text": "Under 5MB"
+        },
+        {
+          "label": "Layout Columns",
+          "text": "Variable"
+        },
+        {
+          "label": "Responsive Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fluid Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fixed-width Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Less",
+          "text": "No"
+        },
+        {
+          "label": "Sass",
+          "text": "No"
+        },
+        {
+          "label": "PostCSS",
+          "text": "Yes"
+        },
+        {
+          "label": "Min Browser",
+          "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari"
+        }
+      ],
+      "tags": [
+        "modern",
+        "bootstrap",
+        "bootstrap 4",
+        "app",
+        "tablet",
+        "phone",
+        "desktop",
+        "responsive",
+        "multipurpose",
+        "template",
+        "theme",
+        "fui",
+        "hud",
+        "gui",
+        "ixd",
+        "ux",
+        "ui",
+        "ajax",
+        "web 2.0",
+        "html5",
+        "css3",
+        "jquery",
+        "bootlint",
+        "business",
+        "creative",
+        "marketing",
+        "agency",
+        "portfolio",
+        "blog",
+        "corporate",
+        "company",
+        "resume"
+      ]
+    },
+    {
+      "deleted": false,
+      "title": "Seadragon Bundle",
+      "name": "seadragon-bundle",
+      "description": "Beautiful massive product megabundle.",
+      "version": "1.0.0",
+      "currency": "usd",
+      "featured": true,
+      "popular": true,
+      "author": "Hominus Nocturna Nocturnal User Interface Development",
+      "authorId": "hominusnocturna-com",
+      "homepage": "http://hominusnocturna.com/",
+      "demo": "http://hominusnocturna.com/seadragon-bundle.html",
+      "screenshot": "http://hominusnocturna.com/demo/seadragon-bundle/screenshot.jpg",
+      "licensing": [
+        {
+          "type": "standard",
+          "amount": 12800
+        },
+        {
+          "type": "multiuse",
+          "amount": 25600
+        },
+        {
+          "type": "extended",
+          "amount": 51200
+        }
+      ],
+      "properties": [
+        {
+          "label": "Product Type",
+          "text": "HTML Template"
+        },
+        {
+          "label": "Release Date",
+          "text": "January, 2016"
+        },
+        {
+          "label": "Last Updated",
+          "text": "May, 2017"
+        },
+        {
+          "label": "File Types",
+          "text": "HTML, CSS"
+        },
+        {
+          "label": "File Size",
+          "text": "Under 5MB"
+        },
+        {
+          "label": "Layout Columns",
+          "text": "Variable"
+        },
+        {
+          "label": "Responsive Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fluid Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fixed-width Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Less",
+          "text": "No"
+        },
+        {
+          "label": "Sass",
+          "text": "No"
+        },
+        {
+          "label": "PostCSS",
+          "text": "Yes"
+        },
+        {
+          "label": "Min Browser",
+          "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari"
+        }
+      ],
+      "tags": [
+        "modern",
+        "bootstrap",
+        "bootstrap 4",
+        "app",
+        "tablet",
+        "phone",
+        "desktop",
+        "responsive",
+        "multipurpose",
+        "template",
+        "theme",
+        "fui",
+        "hud",
+        "gui",
+        "ixd",
+        "ux",
+        "ui",
+        "ajax",
+        "web 2.0",
+        "html5",
+        "css3",
+        "jquery",
+        "bootlint",
+        "business",
+        "creative",
+        "marketing",
+        "agency",
+        "portfolio",
+        "blog",
+        "corporate",
+        "company",
+        "resume"
+      ]
+    },
+    {
+      "deleted": false,
+      "title": "Hellhound Bundle",
+      "name": "hellhound-bundle",
+      "description": "Beautiful massive product megabundle.",
+      "version": "1.0.0",
+      "currency": "usd",
+      "featured": true,
+      "popular": true,
+      "author": "Hominus Nocturna Nocturnal User Interface Development",
+      "authorId": "hominusnocturna-com",
+      "homepage": "http://hominusnocturna.com/",
+      "demo": "http://hominusnocturna.com/hellhound-bundle.html",
+      "screenshot": "http://hominusnocturna.com/demo/hellhound-bundle/screenshot.jpg",
+      "licensing": [
+        {
+          "type": "standard",
+          "amount": 12800
+        },
+        {
+          "type": "multiuse",
+          "amount": 25600
+        },
+        {
+          "type": "extended",
+          "amount": 51200
+        }
+      ],
+      "properties": [
+        {
+          "label": "Product Type",
+          "text": "HTML Template"
+        },
+        {
+          "label": "Release Date",
+          "text": "January, 2016"
+        },
+        {
+          "label": "Last Updated",
+          "text": "May, 2017"
+        },
+        {
+          "label": "File Types",
+          "text": "HTML, CSS"
+        },
+        {
+          "label": "File Size",
+          "text": "Under 5MB"
+        },
+        {
+          "label": "Layout Columns",
+          "text": "Variable"
+        },
+        {
+          "label": "Responsive Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fluid Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Fixed-width Layout",
+          "text": "Yes"
+        },
+        {
+          "label": "Less",
+          "text": "No"
+        },
+        {
+          "label": "Sass",
+          "text": "No"
+        },
+        {
+          "label": "PostCSS",
+          "text": "Yes"
+        },
+        {
+          "label": "Min Browser",
+          "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari"
+        }
+      ],
+      "tags": [
+        "modern",
+        "bootstrap",
+        "bootstrap 4",
+        "app",
+        "tablet",
+        "phone",
+        "desktop",
+        "responsive",
+        "multipurpose",
+        "template",
+        "theme",
+        "fui",
+        "hud",
+        "gui",
+        "ixd",
+        "ux",
+        "ui",
+        "ajax",
+        "web 2.0",
+        "html5",
+        "css3",
+        "jquery",
+        "bootlint",
+        "business",
+        "creative",
+        "marketing",
+        "agency",
+        "portfolio",
+        "blog",
+        "corporate",
+        "company",
+        "resume"
+      ]
     }
-
   ]
-
 }
