@@ -15,7 +15,7 @@
       "authorId": "bootstrap-cards",
       "homepage": "http://bootstrap.cards/",
       "demo": "http://bootstrap.cards/liverpool-bundle.html",
-      "screenshot": "http://bootstrap.cards/demo/liverpool-bundle/screenshot.jpg",
+      "screenshot": "https://bootstrap.cards/demo/liverpool-bundle/screenshot.jpg",
       "licensing": [
         {
           "type": "standard",
@@ -132,7 +132,7 @@
       "authorId": "bootstrap-cards",
       "homepage": "http://bootstrap.cards/",
       "demo": "http://bootstrap.cards/rotterdam-bundle.html",
-      "screenshot": "http://bootstrap.cards/demo/rotterdam-bundle/screenshot.jpg",
+      "screenshot": "https://bootstrap.cards/demo/rotterdam-bundle/screenshot.jpg",
       "licensing": [
         {
           "type": "standard",
@@ -249,7 +249,7 @@
       "authorId": "bootstrap-cards",
       "homepage": "http://bootstrap.cards/",
       "demo": "http://bootstrap.cards/frankfurt-bundle.html",
-      "screenshot": "http://bootstrap.cards/demo/frankfurt-bundle/screenshot.jpg",
+      "screenshot": "https://bootstrap.cards/demo/frankfurt-bundle/screenshot.jpg",
       "licensing": [
         {
           "type": "standard",
@@ -366,7 +366,7 @@
       "authorId": "fuigui-com",
       "homepage": "http://fuigui.com/",
       "demo": "http://fuigui.com/theseus-bundle.html",
-      "screenshot": "http://fuigui.com/demo/theseus-bundle/screenshot.jpg",
+      "screenshot": "https://fuigui.com/demo/theseus-bundle/screenshot.jpg",
       "licensing": [
         {
           "type": "standard",
@@ -483,7 +483,7 @@
       "authorId": "fuigui-com",
       "homepage": "http://fuigui.com/",
       "demo": "http://fuigui.com/hermes-bundle.html",
-      "screenshot": "http://fuigui.com/demo/hermes-bundle/screenshot.jpg",
+      "screenshot": "https://fuigui.com/demo/hermes-bundle/screenshot.jpg",
       "licensing": [
         {
           "type": "standard",
@@ -600,7 +600,7 @@
       "authorId": "fuigui-com",
       "homepage": "http://fuigui.com/",
       "demo": "http://fuigui.com/scorpio-bundle.html",
-      "screenshot": "http://fuigui.com/demo/scorpio-bundle/screenshot.jpg",
+      "screenshot": "https://fuigui.com/demo/scorpio-bundle/screenshot.jpg",
       "licensing": [
         {
           "type": "standard",
@@ -717,7 +717,7 @@
       "authorId": "futuristicui-com",
       "homepage": "http://futuristicui.com/",
       "demo": "http://futuristicui.com/mercury-bundle.html",
-      "screenshot": "http://futuristicui.com/demo/mercury-bundle/screenshot.jpg",
+      "screenshot": "https://futuristicui.com/demo/mercury-bundle/screenshot.jpg",
       "licensing": [
         {
           "type": "standard",
@@ -834,7 +834,7 @@
       "authorId": "futuristicui-com",
       "homepage": "http://futuristicui.com/",
       "demo": "http://futuristicui.com/venus-bundle.html",
-      "screenshot": "http://futuristicui.com/demo/venus-bundle/screenshot.jpg",
+      "screenshot": "https://futuristicui.com/demo/venus-bundle/screenshot.jpg",
       "licensing": [
         {
           "type": "standard",
@@ -951,7 +951,7 @@
       "authorId": "futuristicui-com",
       "homepage": "http://futuristicui.com/",
       "demo": "http://futuristicui.com/earth-bundle.html",
-      "screenshot": "http://futuristicui.com/demo/earth-bundle/screenshot.jpg",
+      "screenshot": "https://futuristicui.com/demo/earth-bundle/screenshot.jpg",
       "licensing": [
         {
           "type": "standard",
@@ -1068,7 +1068,7 @@
       "authorId": "fantasyui-com",
       "homepage": "http://fantasyui.com/",
       "demo": "http://fantasyui.com/pixel-bundle.html",
-      "screenshot": "http://fantasyui.com/demo/pixel-bundle/screenshot.jpg",
+      "screenshot": "https://fantasyui.com/demo/pixel-bundle/screenshot.jpg",
       "licensing": [
         {
           "type": "standard",
@@ -1185,7 +1185,7 @@
       "authorId": "fantasyui-com",
       "homepage": "http://fantasyui.com/",
       "demo": "http://fantasyui.com/swatch-bundle.html",
-      "screenshot": "http://fantasyui.com/demo/swatch-bundle/screenshot.jpg",
+      "screenshot": "https://fantasyui.com/demo/swatch-bundle/screenshot.jpg",
       "licensing": [
         {
           "type": "standard",
@@ -1302,7 +1302,7 @@
       "authorId": "fantasyui-com",
       "homepage": "http://fantasyui.com/",
       "demo": "http://fantasyui.com/mega-bundle.html",
-      "screenshot": "http://fantasyui.com/demo/mega-bundle/screenshot.jpg",
+      "screenshot": "https://fantasyui.com/demo/mega-bundle/screenshot.jpg",
       "licensing": [
         {
           "type": "standard",
@@ -1419,7 +1419,7 @@
       "authorId": "fuikit-com",
       "homepage": "http://fuikit.com/",
       "demo": "http://fuikit.com/delta-bundle.html",
-      "screenshot": "http://fuikit.com/demo/delta-bundle/screenshot.jpg",
+      "screenshot": "https://fuikit.com/demo/delta-bundle/screenshot.jpg",
       "licensing": [
         {
           "type": "standard",
@@ -1536,7 +1536,7 @@
       "authorId": "fuikit-com",
       "homepage": "http://fuikit.com/",
       "demo": "http://fuikit.com/echo-bundle.html",
-      "screenshot": "http://fuikit.com/demo/echo-bundle/screenshot.jpg",
+      "screenshot": "https://fuikit.com/demo/echo-bundle/screenshot.jpg",
       "licensing": [
         {
           "type": "standard",
@@ -1653,7 +1653,7 @@
       "authorId": "fuikit-com",
       "homepage": "http://fuikit.com/",
       "demo": "http://fuikit.com/foxtrot-bundle.html",
-      "screenshot": "http://fuikit.com/demo/foxtrot-bundle/screenshot.jpg",
+      "screenshot": "https://fuikit.com/demo/foxtrot-bundle/screenshot.jpg",
       "licensing": [
         {
           "type": "standard",
@@ -1770,7 +1770,7 @@
       "authorId": "hominusnocturna-com",
       "homepage": "http://hominusnocturna.com/",
       "demo": "http://hominusnocturna.com/dragonfly-bundle.html",
-      "screenshot": "http://hominusnocturna.com/demo/dragonfly-bundle/screenshot.jpg",
+      "screenshot": "https://hominusnocturna.com/demo/dragonfly-bundle/screenshot.jpg",
       "licensing": [
         {
           "type": "standard",
@@ -1887,7 +1887,7 @@
       "authorId": "hominusnocturna-com",
       "homepage": "http://hominusnocturna.com/",
       "demo": "http://hominusnocturna.com/seadragon-bundle.html",
-      "screenshot": "http://hominusnocturna.com/demo/seadragon-bundle/screenshot.jpg",
+      "screenshot": "https://hominusnocturna.com/demo/seadragon-bundle/screenshot.jpg",
       "licensing": [
         {
           "type": "standard",
@@ -2004,7 +2004,7 @@
       "authorId": "hominusnocturna-com",
       "homepage": "http://hominusnocturna.com/",
       "demo": "http://hominusnocturna.com/hellhound-bundle.html",
-      "screenshot": "http://hominusnocturna.com/demo/hellhound-bundle/screenshot.jpg",
+      "screenshot": "https://hominusnocturna.com/demo/hellhound-bundle/screenshot.jpg",
       "licensing": [
         {
           "type": "standard",
