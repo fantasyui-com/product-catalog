@@ -119,7 +119,9 @@
         "resume"
       ],
       "categories": [
-        "Web Design"
+        {
+          "label": "Web Design"
+        }
       ]
     },
     {
@@ -239,7 +241,9 @@
         "resume"
       ],
       "categories": [
-        "Web Design"
+        {
+          "label": "Web Design"
+        }
       ]
     },
     {
@@ -359,7 +363,9 @@
         "resume"
       ],
       "categories": [
-        "Web Design"
+        {
+          "label": "Web Design"
+        }
       ]
     },
     {
@@ -479,7 +485,9 @@
         "resume"
       ],
       "categories": [
-        "Web Design"
+        {
+          "label": "Web Design"
+        }
       ]
     },
     {
@@ -599,7 +607,9 @@
         "resume"
       ],
       "categories": [
-        "Web Design"
+        {
+          "label": "Web Design"
+        }
       ]
     },
     {
@@ -719,7 +729,9 @@
         "resume"
       ],
       "categories": [
-        "Web Design"
+        {
+          "label": "Web Design"
+        }
       ]
     },
     {
@@ -839,7 +851,9 @@
         "resume"
       ],
       "categories": [
-        "Web Design"
+        {
+          "label": "Web Design"
+        }
       ]
     },
     {
@@ -959,7 +973,9 @@
         "resume"
       ],
       "categories": [
-        "Web Design"
+        {
+          "label": "Web Design"
+        }
       ]
     },
     {
@@ -1079,7 +1095,9 @@
         "resume"
       ],
       "categories": [
-        "Web Design"
+        {
+          "label": "Web Design"
+        }
       ]
     },
     {
@@ -1199,7 +1217,9 @@
         "resume"
       ],
       "categories": [
-        "Web Design"
+        {
+          "label": "Web Design"
+        }
       ]
     },
     {
@@ -1319,7 +1339,9 @@
         "resume"
       ],
       "categories": [
-        "Web Design"
+        {
+          "label": "Web Design"
+        }
       ]
     },
     {
@@ -1439,7 +1461,9 @@
         "resume"
       ],
       "categories": [
-        "Web Design"
+        {
+          "label": "Web Design"
+        }
       ]
     },
     {
@@ -1559,7 +1583,9 @@
         "resume"
       ],
       "categories": [
-        "Web Design"
+        {
+          "label": "Web Design"
+        }
       ]
     },
     {
@@ -1679,7 +1705,9 @@
         "resume"
       ],
       "categories": [
-        "Web Design"
+        {
+          "label": "Web Design"
+        }
       ]
     },
     {
@@ -1799,7 +1827,9 @@
         "resume"
       ],
       "categories": [
-        "Web Design"
+        {
+          "label": "Web Design"
+        }
       ]
     },
     {
@@ -1919,7 +1949,9 @@
         "resume"
       ],
       "categories": [
-        "Web Design"
+        {
+          "label": "Web Design"
+        }
       ]
     },
     {
@@ -2039,7 +2071,9 @@
         "resume"
       ],
       "categories": [
-        "Web Design"
+        {
+          "label": "Web Design"
+        }
       ]
     },
     {
@@ -2159,7 +2193,9 @@
         "resume"
       ],
       "categories": [
-        "Web Design"
+        {
+          "label": "Web Design"
+        }
       ]
     }
   ]
