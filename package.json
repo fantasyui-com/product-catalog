@@ -4,13 +4,14 @@
   "description": "Efficient lodash backed, package.json formatted digital downloads product-catalog with minimal requirements and maintenance.",
   "main": "index.js",
   "scripts": {
-    "test": "node test"
+    "test": "node test",
+    "save": "git add .; git commit -m 'New Release'; git push; npm version patch; npm publish; git push;"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fantasyui-com/product-catalog.git"
   },
-  "author": "",
+  "author": "fantasyui.com <fantasyui.com@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fantasyui-com/product-catalog/issues"
